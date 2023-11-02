@@ -17,7 +17,7 @@ I'm a passionate programmer and aspiring software developer based in Plovdiv. I'
 ## My Projects
 
 Here are some of the projects I've been working on:.
-1. **Eat me http://207.148.28.144/ **
+1. **Eat me**
    - A Web App for managing your macros and meals.
    - Technologies used: Python, Django, jQuery, Bootstrap.
    - https://github.com/Bibin0001/eat-me-up
