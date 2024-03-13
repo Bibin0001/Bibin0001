@@ -4,7 +4,7 @@ I have been programming for 2 years now. I like doing Backend and I have interes
 # About Me
 
 - I like drawing
-- I like penguins
+- I like ricing 
 - Currently learning Cyber Security
   
 ## My Projects
