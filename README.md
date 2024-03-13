@@ -17,7 +17,7 @@ Here are some of the projects I've been working on:.
 2. **Real Time Chat**
    - A web app with real time messaging
    - Technologies used: NodeJs, React, MongoDB, Socket.io
-   - https://github.com/Bibin0001/chat
+   - https://github.com/Bibin0001/chat/tree/master
 
 ## Get in Touch
 
